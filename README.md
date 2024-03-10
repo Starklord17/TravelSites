@@ -1,6 +1,6 @@
 # ⚡️ TailwindStyle
 
-This is a simple project to practice using Tailwind CSS.
+This is a simple project to practice with TailwindCSS.
 
 ## 🎯Content
 
@@ -26,4 +26,4 @@ Run the following command:
 
 ## 🌐View Project Online
 
-[View Project]()
+[View Project](https://tailwindcss-travel.netlify.app/)
